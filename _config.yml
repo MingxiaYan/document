@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: [NGD Docmentation]
+description: [ngd doc test]
+logo: ['https://neo-cdn.azureedge.net/images/neo_logo.svg']
+show_downloads: ["false"]
